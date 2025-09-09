@@ -36,8 +36,6 @@
 
 ### 📌 Highlight Projects
 
-- [PaperPlus – Revit Add-ins for AEC Workflow](https://github.com/Cazorlas/PaperPlus)
-- [QuickTools – Automation for Revit](https://github.com/Cazorlas/QuickTools)
 - [PaperMEP – MEP Solutions in Revit](https://github.com/Cazorlas/PaperMEP)
 - [My Website](https://your-website.com)
 
