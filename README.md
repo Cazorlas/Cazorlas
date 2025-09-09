@@ -4,11 +4,11 @@
 
 <table align="center">
   <tr>
-    <td width="50%" align="center">
-      <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="220" alt="Fat Cat GIF" />
+    <td align="center" width="50%">
+      <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="300" alt="Fat Cat GIF" />
     </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Cazorlas&show_icons=true&theme=radical" alt="Cazorlas's github stats" />
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=Cazorlas&show_icons=true&theme=radical" width="400" alt="Cazorlas's github stats" />
     </td>
   </tr>
 </table>
