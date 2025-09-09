@@ -2,9 +2,16 @@
 
 <h1 align="center">Hi 👋, I'm Hung (Cazorlas)</h1>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cazorlas&show_icons=true&theme=radical" alt="Cazorlas's github stats" />
-</p>
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="220" alt="Fat Cat GIF" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Cazorlas&show_icons=true&theme=radical" alt="Cazorlas's github stats" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://github.com/Cazorlas?tab=followers">
@@ -16,9 +23,9 @@
   <a href="https://www.linkedin.com/in/h%C3%B9ng-tr%E1%BB%8Bnh-v%C5%A9-tu%E1%BA%A5n-2739b32a6/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn" />
   </a>
-<a href="https://www.youtube.com/@paper.engineer">
-  <img src="https://img.shields.io/badge/Youtube-Subscribe-red?logo=youtube" alt="YouTube" />
-</a>
+  <a href="https://www.youtube.com/@paper.engineer">
+    <img src="https://img.shields.io/badge/Youtube-Subscribe-red?logo=youtube" alt="YouTube" />
+  </a>
 </p>
 
 ---
@@ -38,14 +45,6 @@
 
 - [PaperMEP – MEP Solutions in Revit](https://github.com/Cazorlas/PaperMEP)
 - [My Website](https://your-website.com)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cazorlas&layout=compact&theme=radical" alt="Top Langs" />
-</p>
 
 ---
 
