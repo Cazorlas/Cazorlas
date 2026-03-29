@@ -25,7 +25,7 @@
   </a>
   <a href="https://www.youtube.com/@paper.engineer">
     <img src="https://img.shields.io/badge/Youtube-Subscribe-red?logo=youtube" alt="YouTube" />
-  </a>
+  </a> 
 </p>
 
 ---
@@ -45,7 +45,7 @@
 
 - [PaperMEP – MEP in C#](https://github.com/Cazorlas/PaperMEP)
 - [PaperEngineer Tools in Python](https://github.com/Cazorlas/Paper-Engineer-Tools)
-
+- [PaperPlus - AI, and more powerfull tools in Revit](https://github.com/Cazorlas/PaperPlus)
 ---
 
 <p align="center">
